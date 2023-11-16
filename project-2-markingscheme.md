@@ -1,13 +1,6 @@
 # Project 2 marking scheme
 
 The mark for the project is divided into 4 criteria. The total mark is **40 marks**.
-
-### Group work
-
-There are groups of 3 to 5 students. The expected amount of work should be commensurate with the difference in group size. The standard/quality of work should be at the same level regardless of group size.
-
-Groups are required to work together to produce a single cohesive report. If the report is clearly very disjointed (e.g. it is clear that students have worked mostly on their own and put together the work at the last minute in the same file), a penalty may be applied in C3. Please note that "cohesive" doesn't necessarily mean that students should collaborate on every single question; but there should be some evidence of a substantial amount of collaboration and discussion between the group members. For instance, very noticeable differences in presentation, code style, commenting, etc. between different parts is probably a good indicator that very little collaboration has occurred, particularly when putting the final report together.
-
 ## Criteria
 
 #### C1: 16 marks - Technical proficiency
